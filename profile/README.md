@@ -1,12 +1,19 @@
-## Hi there 👋
+![Next Gen Innovators](https://avatars.githubusercontent.com/u/213254345?s=200&v=4)
+# Next Gen Innovators
 
-<!--
+A team that likes to make shortcuts, websites, and much more for fun, to help users with useful or fun things while working hard. 
 
-**Here are some ideas to get you started:**
+**Striving for infinity ♾️**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Global Board / Navigation
+
+
+- [Introduction](#next-gen-innovators)
+- [Credits](#credits)
+
+### CREDITS
+
+**BIG THANKS TO...**
+
+[![pollinations.ai](https://pollinations.ai/banner.webp)](https://pollinations.ai/)
+
