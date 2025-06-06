@@ -1,5 +1,5 @@
-![Next Gen Innovators](https://github.com/Next-Gen-Innovators/.github/raw/refs/heads/main/profile/Slogan.PNG)
 # Next Gen Innovators
+![Next Gen Innovators](https://github.com/Next-Gen-Innovators/.github/raw/refs/heads/main/profile/Slogan.PNG)
 
 A team that likes to make shortcuts, websites, and much more for fun, to help users with useful or fun things while working hard. 
 
